@@ -1,0 +1,29 @@
+.container{
+    width:300px;
+    margin:auto;
+}
+.header{
+    height:40px;
+    line-height: 40px;
+    background-color: #fafafa;
+    text-align: center;
+}
+.list{
+    list-style: none;
+    text-align: left;
+}
+.item{
+    height:30px;
+    line-height: 30px;
+    cursor: pointer;
+}
+.item a{
+    color:#333;
+    text-decoration: none;
+}
+.item a:hover{
+    color:#60bfd3;
+}
+.id{
+    margin-right:10px;
+}

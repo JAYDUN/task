@@ -1,0 +1,20 @@
+.container{
+    width:400px;
+    margin:auto;
+}
+.btn{
+    color: #fff;
+    background-color: #dc3545;
+    border-color: #dc3545;
+    width:100px;
+    border-radius:6px;
+    cursor: pointer;
+    height: 30px;
+    font-size: 16px;
+
+}
+.btn:hover {
+    color: #fff;
+    background-color: #c82333;
+    border-color: #bd2130;
+}

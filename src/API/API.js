@@ -1,0 +1,1 @@
+export const defaultAPI = "https://dev.presscentric.com/test/accounts"
